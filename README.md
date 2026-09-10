@@ -3,6 +3,8 @@
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-blue.svg)
 ![VRChat Group](https://img.shields.io/badge/VRChat-KSL%20Class-emerald.svg)
 ![Discord](https://img.shields.io/badge/Discord-Community-5865F2.svg)
+![Type](https://img.shields.io/badge/Asset-Graphic%20Resource-blue.svg)
+![Format](https://img.shields.io/badge/Format-PNG%20%7C%20AI-orange.svg)
 
 본 저장소는 **VRChat 한국수어교실** 공식 타이틀 로고, 배너, 수어 지화 그래픽 등 브랜드 자산(Brand Identity)을 공식 관리하고 제공하는 단일 원본 저장소입니다.
 
