@@ -48,3 +48,10 @@
 
 ```text
 Logo & Brand Identity by VRChat 한국수어교실 ([https://github.com/LeeSimYul/Kidentity](https://github.com/LeeSimYul/Kidentity))
+```
+
+---
+
+## 💬 문의 및 사용 신청
+
+로고 사용 및 브랜드 가이드라인과 관련하여 문의 사항이 있거나 특수한 목적으로 사용 허가가 필요한 경우 [Issues] 탭을 통해 문의해 주세요.
