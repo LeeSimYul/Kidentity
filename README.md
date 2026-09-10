@@ -35,9 +35,9 @@
 
 | 자산 유형 | 미리보기 | 추천 용도 | 다운로드 |
 | :--- | :---: | :--- | :---: |
-| **투명 배경 (PNG)** | <img src="./assets/png/VRChat 한국수어교실 타이틀 배너(투명화).png" width="220"/> | 유니티 월드 UI, 포스터 합성 | [파일 열기](./assets/png/VRChat%20한국수어교실%20타이틀%20배너(투명화).png) |
-| **개나리 단색 (PNG)** | <img src="./assets/png/VRChat 한국수어교실 타이틀 배너(개나리).png" width="220"/> | 밝은 배경, 단색 배너 카드 | [파일 열기](./assets/png/VRChat%20한국수어교실%20타이틀%20배너(개나리).png) |
-| **공식 종합 배너 (PNG)** | <img src="./assets/png/VRChat 한국수어교실 공식 타이틀 배너 together.png" width="220"/> | 공식 이벤트 썸네일, 메인 홍보 | [파일 열기](./assets/png/VRChat%20한국수어교실%20공식%20타이틀%20배너%20together.png) |
+| **타이틀 배너 (PNG)** | <img src="./assets/png/VRChat 한국수어교실 공식 타이틀 배너 together.png" width="220"/> | 대표 타이틀 배너 | [파일 열기](./assets/png/VRChat%20한국수어교실%20공식%20타이틀%20배너%20together.png) |
+| **로고 & 아이콘 (PNG)** | <img src="./assets/png/logo-icon/VRChat 한국수어교실 로고 ver.2 together.png" width="220"/> | 대표 로고(아이콘) | [파일 열기](./assets/png/logo-icon/VRChat%20한국수어교실%20로고%20ver.2%20together.png) |
+| **디스코드 배너 (PNG)** | <img src="./assets/png/discord-server-banner/VRChat 한국수어교실 디스코드 서버 배너 2.png" width="220"/> | 디스코드 전용 이미지 | [파일 열기](./assets/png/discord-server-banner/VRChat%20한국수어교실%20디스코드%20서버%20배너%202.png) |
 | **AI 벡터 원본** | *벡터 소스 Vector Source* | 고해상도 인쇄 및 원본 편집 | [파일 열기](./assets/vector/VRChat%20한국수어교실%20타이틀%20배너.ai) |
 
 ---
