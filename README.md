@@ -7,12 +7,40 @@
 ![Type](https://img.shields.io/badge/Asset-Graphic%20Resource-blue.svg)
 ![Format](https://img.shields.io/badge/Format-PNG%20%7C%20SVG%20%7C%20AI-orange.svg)
 
-본 저장소는 **VRChat 한국수어교실** 공식 타이틀 로고, 배너, 수어 지화(Finger Spelling) 그래픽 등 브랜드 자산(Brand Identity)을 공식 관리하고 제공하는 **단일 원본 저장소(Single Source of Truth)** 입니다.
+<a name="disclaimer"></a>
 
-> ### ⚠️ Third-Party Project & World Implementation Disclaimer
-> - 본 저장소(Kidentity)의 브랜드 에셋 및 로고는 VRChat 한국수어교실의 정체성을 보호하기 위한 오픈소스 자산입니다.
+> [!CAUTION]
+> ## 🛡️ 공식 면책 조항 (Official Disclaimer)
+>
+> **🇰🇷 국문 면책 조항**
+>
+> 본 저장소는 'VRChat 한국수어교실'의 공식 고유 브랜드 자산 보관소입니다.\
+> 총괄 대표(이심율)의 **사전 서면 승인**을 득하지 않은 채 본 저장소의 링크나 자산을 무단 참조, 첨부, 인용하는 외부 월드, 프로젝트, 단체, 개인의 활동은 **본 공식 단체와 일절 무관합니다.**\
+> 본 저장소의 관리자는 제3자의 무단 링크 및 임의 사용으로 인해 발생하는 모든 법적 분쟁, 사칭, 유무형의 피해에 대해 **어떠한 법적 책임이나 보증도 지지 않습니다.**
+>
+> **🌐 English Disclaimer**
+>
+> This repository houses the official brand identity assets of the VRChat Korean Sign Language Class.\
+> Any external projects, VRChat worlds, teams, or individuals referencing or linking to this repository without explicit, written authorization from Lead Director Lee SimYul (이심율) are **strictly unaffiliated and unendorsed.**\
+> The official administrators **disclaim all liability, responsibility, and warranty** for any disputes, damages, or misrepresentations arising from unauthorized third-party usages or links.
+>
+> ---
+>
+> ✅ **정식 협력 및 사용 승인 창구 (Official Authorization Channel)** —
+> [📮 공식 사용 승인 신청서 (Request Form)](https://github.com/LeeSimYul/Kidentity/issues/new?template=brand_authorization_request.md) · [💬 공식 문의 (Issues)](https://github.com/LeeSimYul/Kidentity/issues)
+
+> [!WARNING]
+> ### ⚠️ 제3자 프로젝트 · 월드 구현 면책 (Third-Party Project & World Implementation Disclaimer)
+>
+> - 본 저장소(Kidentity)의 브랜드 에셋 및 로고는 VRChat 한국수어교실의 정체성을 보호하기 위해 관리되는 **공식 브랜드 자산**입니다. 공개(Public) 저장소이나 오픈소스가 아니며, 열람 가능 여부가 사용 허가를 의미하지 않습니다.
 > - **본 저장소 관리자는 외부 제작자(제3자) 또는 개별 인스턴스에 의해 제작·외주된 VRChat 월드의 공간 설계, 3D 구조, 성능 최적화, 기능적 결함 및 운영 방식에 대해 어떠한 기술적·운영적 책임도 지지 않습니다.**
 > - 외부 월드 내 발생하는 모든 시스템 문제 및 접근성 문의는 해당 월드의 업로더(제작자)에게 문의하시기 바랍니다.
+>
+> *The brand assets in this repository are official brand assets — the repository is public but **not open source**, and visibility does not grant permission to use. The administrators bear **no technical or operational responsibility** for the spatial design, 3D structure, performance optimization, functional defects, or operation of any VRChat world built or commissioned by external creators (third parties) or individual instances. Direct all system issues and accessibility inquiries about an external world to that world's uploader (creator).*
+
+---
+
+본 저장소는 **VRChat 한국수어교실** 공식 타이틀 로고, 배너, 수어 지화(Finger Spelling) 그래픽 등 브랜드 자산(Brand Identity)을 공식 관리하고 제공하는 **단일 원본 저장소(Single Source of Truth)** 입니다.
 
 > 🌏 **English documentation is available below.** 영문 안내는 [English Guide](#english-guide) 섹션을 참고해 주세요.
 
@@ -56,6 +84,24 @@
 | **비영리 (NC)** | ❌ **금지** | 유료 콘텐츠, 굿즈 판매, 상업적 홍보에 사용할 수 없습니다. |
 | **변경 금지 (ND)** | ❌ **금지** | 요소 분리, 비율 왜곡, 색상 변경, 2차 가공을 금지합니다. |
 | **사전 서면 승인** | 🔐 **필수** | 위 조건을 모두 충족하더라도 **총괄 대표 승인 없이는 사용 불가**합니다. |
+| **제3자 위임** | ❌ **금지** | 커미션 작가 · 외주 제작자에게 자산 전달 및 제작 위임을 할 수 없습니다. |
+| **허가 대리 발급** | ⛔ **무효** | 총괄 대표 외 누구도 사용 허가를 발급하거나 전달할 수 없습니다. |
+
+<a name="anti-delegation"></a>
+
+### 🚫 위임 금지 핵심 조항 (Anti-Delegation Clauses)
+
+> [!WARNING]
+> **제1조 — 제3자 커미션(외주 제작자) 무단 위임 금지**\
+> 총괄 대표의 사전 서면 승인 없이 브랜드 자산(로고 · 배너 · 지화 그래픽 · 원본 파일)을 외부 커미션 작가, 외주 제작자, 제3자 개발자에게 전달하거나 월드 · 콘텐츠 제작을 위임할 수 없습니다.
+> 승인을 받은 신청자라도 **승인서에 명시되지 않은 제3자에게 자산을 재전달할 수 없습니다.**
+>
+> **제2조 — 승인 없는 상업적 이용 및 파생 월드 업로드 금지**\
+> 승인 없이 자산을 유료 콘텐츠 · 굿즈 · 상업적 홍보에 사용하거나, 자산을 탑재 · 변형한 **파생 월드(복제 · 리메이크 · 유사 월드 포함)를 VRChat 등 플랫폼에 업로드하는 행위**를 금지합니다.
+>
+> **제3조 — 권한 없는 제3자의 사용 허가 대리 발급 불가**\
+> 사용 허가는 **오직 총괄 대표(이심율)만이** 발급할 수 있습니다.
+> 스태프, 협력 단체, 월드 소유자, 커미션 작가 등 권한 없는 제3자가 임의로 발급하거나 전달한 "사용 허가"는 **효력이 없으며(무효)**, 이를 근거로 한 모든 사용은 **무단 사용으로 간주**됩니다.
 
 📌 법적 라이선스 전문은 [`LICENSE`](./LICENSE), 상세 브랜드 지침은 [`BRANDING.md`](./BRANDING.md) 문서에서 확인해 주세요.
 
@@ -122,6 +168,7 @@
 - ⏱️ 검토 기간: 통상 신청 접수 후 **3~7일** 소요 (행사 일정보다 여유 있게 신청해 주세요)
 - 📌 승인은 **신청서에 기재된 목적 · 범위 · 기간에 한하여** 유효하며, 다른 용도로 전용할 수 없습니다.
 - 🔄 승인 범위를 변경하려면 **재신청**이 필요합니다.
+- 🔏 승인은 **총괄 대표 명의의 공식 기록**(본 저장소 Issue의 승인 코멘트 또는 디스코드 공식 기록)으로만 유효합니다. 제3자를 통해 전달받은 허가는 무효입니다. ([제3조](#anti-delegation) 참조)
 
 ---
 
@@ -201,7 +248,7 @@ Unlit / Translucent 셰이더 설정 및 텍스처 임포트 가이드를 별도
 | **공식 사용 승인 신청** | [Issues ➔ 브랜드 사용 승인 신청 템플릿](https://github.com/LeeSimYul/Kidentity/issues/new?template=brand_authorization_request.md) |
 | **가이드라인 문의** | [Issues](https://github.com/LeeSimYul/Kidentity/issues) 탭 |
 | **저작권 침해 신고** | 총괄 대표(이심율)에게 디스코드 DM |
-| **총괄 대표** | VRChat 한국수어교실 총괄 대표 겸 담임선생님 — **이심율 (Lead Director: Lee Sim-yul)** |
+| **총괄 대표** | VRChat 한국수어교실 총괄 대표 겸 담임선생님 — **이심율 (Lead Director: Lee SimYul)** |
 
 ---
 ---
@@ -212,6 +259,8 @@ Unlit / Translucent 셰이더 설정 및 텍스처 임포트 가이드를 별도
 
 > This is the English translation of the Korean documentation above.
 > **The Korean text is the official and authoritative version.** In case of any discrepancy, the Korean original prevails.
+>
+> 🛡️ Please read the **[Official Disclaimer](#disclaimer)** at the top of this document first.
 
 ## 🤟 VRChat Korean Sign Language Class — Brand Identity
 
@@ -224,7 +273,7 @@ All assets in this repository are governed by a **dual condition**: the **Creati
 > [!IMPORTANT]
 > ### 🔐 Prior Written Approval Required
 >
-> Every brand asset in this repository may be used **only within an approved scope**, and **only after obtaining prior written approval** from the **Lead Director of VRChat Korean Sign Language Class, Lee Sim-yul (이심율)** — either an official Discord record or a written document.
+> Every brand asset in this repository may be used **only within an approved scope**, and **only after obtaining prior written approval** from the **Lead Director of VRChat Korean Sign Language Class, Lee SimYul (이심율)** — either an official Discord record or a written document.
 >
 > **This applies to class staff as well.** Independent use or abuse of privileges without the Lead Director's prior approval is not permitted.
 > The fact that this repository is **public does not imply a grant of free use.**
@@ -235,6 +284,24 @@ All assets in this repository are governed by a **dual condition**: the **Creati
 | **NonCommercial (NC)** | ❌ **Prohibited** | No paid content, merchandise sales, or commercial promotion. |
 | **NoDerivatives (ND)** | ❌ **Prohibited** | No element separation, aspect-ratio distortion, recoloring, or remixing. |
 | **Prior Written Approval** | 🔐 **Required** | Even if all the above are satisfied, use without the Lead Director's approval is **not permitted**. |
+| **Third-Party Delegation** | ❌ **Prohibited** | Assets may not be handed to, or production delegated to, commission artists or outsourced creators. |
+| **Proxy Authorization** | ⛔ **Void** | No one other than the Lead Director may issue or relay a permission to use. |
+
+<a name="anti-delegation-en"></a>
+
+#### 🚫 Anti-Delegation Clauses
+
+> [!WARNING]
+> **Article 1 — No Unauthorized Delegation to Third-Party Commissions (Outsourced Creators)**\
+> Without the Lead Director's prior written approval, brand assets (logo, banners, finger-spelling graphics, master files) may not be handed to external commission artists, outsourced creators, or third-party developers, nor may world or content production be delegated to them.
+> Even an approved applicant **may not pass assets on to any third party not named in the approval.**
+>
+> **Article 2 — No Unapproved Commercial Use or Derivative World Uploads**\
+> Using the assets for paid content, merchandise, or commercial promotion without approval — or **uploading a derivative world (including copies, remakes, or look-alike worlds) that carries or alters the assets to VRChat or any other platform** — is prohibited.
+>
+> **Article 3 — No Proxy Authorization by Unauthorized Third Parties**\
+> Permission to use may be issued **only by the Lead Director, Lee SimYul (이심율).**
+> Any "permission" issued or relayed by staff, partner organizations, world owners, commission artists, or any other unauthorized third party is **void**, and all use based on it is **deemed unauthorized.**
 
 📌 See [`LICENSE`](./LICENSE) for the full legal terms and [`BRANDING.md`](./BRANDING.md) for detailed brand guidelines.
 
@@ -288,6 +355,7 @@ All assets in this repository are governed by a **dual condition**: the **Creati
 - ⏱️ Review typically takes **3–7 days** — please apply well ahead of your event date.
 - 📌 Approval is valid **only for the purpose, scope, and period stated in the request**, and may not be diverted to other uses.
 - 🔄 Changing the approved scope requires **a new request**.
+- 🔏 Approval is valid **only as an official record in the Lead Director's name** (an approval comment on this repository's issue or an official Discord record). Permission relayed through a third party is void. (See [Article 3](#anti-delegation-en))
 
 ### 🎨 4. Assets
 
@@ -304,7 +372,7 @@ When placing an approved asset, the following credit must appear **where viewers
 **Standard:**
 
 ```text
-Logo & Brand Identity by VRChat 한국수어교실 (Lead Director: Lee Sim-yul)
+Logo & Brand Identity by VRChat 한국수어교실 (Lead Director: Lee SimYul)
 Official Repository: https://github.com/LeeSimYul/Kidentity
 Licensed under CC BY-NC-ND 4.0 / Used with prior written approval.
 ```
@@ -335,7 +403,7 @@ A separate document covers the Unlit/Translucent shader setup and texture import
 | **Official authorization request** | [Issues ➔ Brand Authorization Request template](https://github.com/LeeSimYul/Kidentity/issues/new?template=brand_authorization_request.md) |
 | **Guideline inquiries** | [Issues](https://github.com/LeeSimYul/Kidentity/issues) tab |
 | **Report infringement** | Discord DM to the Lead Director (이심율) |
-| **Lead Director** | VRChat Korean Sign Language Class — **Lee Sim-yul (이심율)** |
+| **Lead Director** | VRChat Korean Sign Language Class — **Lee SimYul (이심율)** |
 
 ---
 
