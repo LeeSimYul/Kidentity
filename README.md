@@ -9,6 +9,11 @@
 
 본 저장소는 **VRChat 한국수어교실** 공식 타이틀 로고, 배너, 수어 지화(Finger Spelling) 그래픽 등 브랜드 자산(Brand Identity)을 공식 관리하고 제공하는 **단일 원본 저장소(Single Source of Truth)** 입니다.
 
+> ### ⚠️ Third-Party Project & World Implementation Disclaimer
+> - 본 저장소(Kidentity)의 브랜드 에셋 및 로고는 VRChat 한국수어교실의 정체성을 보호하기 위한 오픈소스 자산입니다.
+> - **본 저장소 관리자는 외부 제작자(제3자) 또는 개별 인스턴스에 의해 제작·외주된 VRChat 월드의 공간 설계, 3D 구조, 성능 최적화, 기능적 결함 및 운영 방식에 대해 어떠한 기술적·운영적 책임도 지지 않습니다.**
+> - 외부 월드 내 발생하는 모든 시스템 문제 및 접근성 문의는 해당 월드의 업로더(제작자)에게 문의하시기 바랍니다.
+
 > 🌏 **English documentation is available below.** 영문 안내는 [English Guide](#english-guide) 섹션을 참고해 주세요.
 
 ---
