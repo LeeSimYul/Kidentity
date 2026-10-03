@@ -27,7 +27,7 @@
 > ---
 >
 > ✅ **정식 협력 및 사용 승인 창구 (Official Authorization Channel)** —
-> [📮 공식 사용 승인 신청서 (Request Form)](https://github.com/LeeSimYul/Kidentity/issues/new?template=brand_authorization_request.md) · [💬 공식 문의 (Issues)](https://github.com/LeeSimYul/Kidentity/issues)
+> [📮 공식 사용 승인 신청서 (Request Form)](https://github.com/LeeSimYul/Kidentity/issues/new?template=brand_authorization_request.md) · [💬 공식 문의 (Issues)](https://github.com/LeeSimYul/Kidentity/issues) · [📋 공식 승인 프로젝트 목록 (Authorized Usages)](#authorized-usages)
 
 > [!WARNING]
 > ### ⚠️ 제3자 프로젝트 · 월드 구현 면책 (Third-Party Project & World Implementation Disclaimer)
@@ -53,10 +53,12 @@
 | [1. 라이선스 선언](#license) | CC BY-NC-ND 4.0 및 총괄 대표 사전 서면 승인 |
 | [2. 금지 조항](#prohibited) | 외주 위임 · 요소 분리 · DMCA 제재 |
 | [3. 사용 승인 절차](#authorization) | 공식 신청 양식 및 심사 흐름 |
-| [4. 로고 및 자산](#assets) | 다운로드 및 추천 용도 |
-| [5. 출처 표기 예시](#credit) | 크레딧 문구 복사용 |
-| [6. 배치 가이드](#unity-guide) | 셰이더 · 텍스처 설정 |
-| [7. English Guide](#english-guide) | 영문 번역 |
+| [4. 공식 승인 프로젝트](#authorized-usages) | 정식 승인 월드 · 프로젝트 공인 목록 |
+| [5. 로고 및 자산](#assets) | 다운로드 및 추천 용도 |
+| [6. 출처 표기 예시](#credit) | 크레딧 문구 복사용 |
+| [7. 배치 가이드](#unity-guide) | 셰이더 · 텍스처 설정 |
+| [8. 문의 및 연락처](#contact) | 승인 신청 · 침해 신고 창구 |
+| [English Guide](#english-guide) | 영문 번역 |
 
 ---
 
@@ -101,7 +103,7 @@
 >
 > **제3조 — 권한 없는 제3자의 사용 허가 대리 발급 불가**\
 > 사용 허가는 **오직 총괄 대표(이심율)만이** 발급할 수 있습니다.
-> 스태프, 협력 단체, 월드 소유자, 커미션 작가 등 권한 없는 제3자가 임의로 발급하거나 전달한 "사용 허가"는 **효력이 없으며(무효)**, 이를 근거로 한 모든 사용은 **무단 사용으로 간주**됩니다.
+> 스태프, 협력 단체, 월드 소유자, 커미션 작가 등 권한 없는 제3자가 임의로 발급하거나 전달한 "사용 허가"는 **효력이 없으며(무효)**, 이를 근거로 한 모든 사용은 **무단 사용으로 간주**됩니다. ([LICENSE 제2조](./LICENSE) · [공식 승인 프로젝트 목록](#authorized-usages) 참조)
 
 📌 법적 라이선스 전문은 [`LICENSE`](./LICENSE), 상세 브랜드 지침은 [`BRANDING.md`](./BRANDING.md) 문서에서 확인해 주세요.
 
@@ -172,9 +174,28 @@
 
 ---
 
+<a name="authorized-usages"></a>
+
+## ✅ 4. 공식 승인 프로젝트 (Authorized Usages)
+
+총괄 대표(이심율)로부터 **정식 사전 서면 승인**을 받은 공식 월드 · 프로젝트의 공인 목록입니다.
+최상단 [공식 면책 조항](#disclaimer)에 따라, **본 목록에 등재되지 않은 월드 · 프로젝트 · 단체 · 개인의 활동은 VRChat 한국수어교실과 일절 무관합니다.**
+
+| No. | 프로젝트 / 월드명 | 제작 / 업로더 | 승인 범위 | 상태 |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | **VRChat 한국수어교실 월드** | 도비 (Dobby) | VRChat 한국수어교실 정규 수업 및 교육 목적 월드 내 로고 에셋 인게임 배치 | ✅ **공식 승인 완료** <br/> (Officially Authorized) |
+
+> [!NOTE]
+> - 본 목록은 **총괄 대표만이 등재 · 수정 · 삭제**할 수 있으며, 본 저장소의 `main` 브랜치에 반영된 내용이 유일한 공식 기록입니다.
+> - 승인은 **표에 기재된 승인 범위에 한하여** 유효합니다. 범위를 벗어난 사용(다른 월드로의 복제, 제3자 재전달 등)은 승인되지 않은 사용입니다.
+> - 운영진 · 교사진 · 제3자가 "승인받았다"고 전달하더라도 **본 목록에 없으면 무효**입니다. ([LICENSE 제2조](./LICENSE) 참조)
+> - 등재를 원하시면 [공식 사용 승인 신청서](https://github.com/LeeSimYul/Kidentity/issues/new?template=brand_authorization_request.md)를 제출해 주세요.
+
+---
+
 <a name="assets"></a>
 
-## 🎨 4. 로고 및 자산 미리보기 (Assets)
+## 🎨 5. 로고 및 자산 미리보기 (Assets)
 
 사용하고자 하는 용도(어두운 배경, 밝은 배경, 투명 배경)에 맞춰 아래 파일들을 다운로드하여 사용하세요.
 
@@ -195,7 +216,7 @@
 
 <a name="credit"></a>
 
-## 📌 5. 출처 표기 예시 (Credit Example)
+## 📌 6. 출처 표기 예시 (Credit Example)
 
 승인을 받아 자산을 배치한 경우, VRChat 월드 설명란 · 이벤트 포스터 · 디스코드 공지문 등
 **이용자가 확인할 수 있는 위치**에 아래 문구를 반드시 명시해야 합니다.
@@ -227,7 +248,7 @@ Logo © VRChat 한국수어교실 (github.com/LeeSimYul/Kidentity) / CC BY-NC-ND
 
 <a name="unity-guide"></a>
 
-## 🛠️ 6. VRChat / Unity 배치 가이드
+## 🛠️ 7. VRChat / Unity 배치 가이드
 
 VRChat 월드에 로고를 배치할 때 발생하는 **어두워짐 · 찌그러짐 · 계단 현상**을 방지하기 위한
 Unlit / Translucent 셰이더 설정 및 텍스처 임포트 가이드를 별도 문서로 제공합니다.
@@ -241,7 +262,9 @@ Unlit / Translucent 셰이더 설정 및 텍스처 임포트 가이드를 별도
 
 ---
 
-## 💬 7. 문의 및 연락처 (Contact)
+<a name="contact"></a>
+
+## 💬 8. 문의 및 연락처 (Contact)
 
 | 구분 | 경로 |
 | :--- | :--- |
@@ -301,7 +324,7 @@ All assets in this repository are governed by a **dual condition**: the **Creati
 >
 > **Article 3 — No Proxy Authorization by Unauthorized Third Parties**\
 > Permission to use may be issued **only by the Lead Director, Lee SimYul (이심율).**
-> Any "permission" issued or relayed by staff, partner organizations, world owners, commission artists, or any other unauthorized third party is **void**, and all use based on it is **deemed unauthorized.**
+> Any "permission" issued or relayed by staff, partner organizations, world owners, commission artists, or any other unauthorized third party is **void**, and all use based on it is **deemed unauthorized.** (See [LICENSE Clause 2](./LICENSE) · [Authorized Usages](#authorized-usages-en))
 
 📌 See [`LICENSE`](./LICENSE) for the full legal terms and [`BRANDING.md`](./BRANDING.md) for detailed brand guidelines.
 
@@ -357,7 +380,24 @@ All assets in this repository are governed by a **dual condition**: the **Creati
 - 🔄 Changing the approved scope requires **a new request**.
 - 🔏 Approval is valid **only as an official record in the Lead Director's name** (an approval comment on this repository's issue or an official Discord record). Permission relayed through a third party is void. (See [Article 3](#anti-delegation-en))
 
-### 🎨 4. Assets
+<a name="authorized-usages-en"></a>
+
+### ✅ 4. Authorized Usages
+
+The official registry of worlds and projects that have received **formal prior written approval** from the Lead Director, Lee SimYul (이심율).
+In accordance with the [Official Disclaimer](#disclaimer) at the top, **any world, project, team, or individual not listed here is unaffiliated with VRChat 한국수어교실.**
+
+| No. | Project / World | Creator / Uploader | Approved Scope | Status |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | **VRChat 한국수어교실 월드** <br/> (VRChat Korean Sign Language Class World) | 도비 (Dobby) | In-game placement of the logo assets inside the world used for the class's regular lessons and educational purposes | ✅ **Officially Authorized** |
+
+> [!NOTE]
+> - Only the Lead Director may add, modify, or remove entries. The version on this repository's `main` branch is the sole official record.
+> - Approval is valid **only within the approved scope listed**. Use outside that scope (copying to another world, passing assets to a third party, etc.) is unauthorized.
+> - A claim of approval relayed by staff, teachers, or any third party is **void unless listed here.** (See [LICENSE Clause 2](./LICENSE))
+> - To be listed, submit the [Brand Authorization Request form](https://github.com/LeeSimYul/Kidentity/issues/new?template=brand_authorization_request.md).
+
+### 🎨 5. Assets
 
 Download the file that matches your background (dark, light, or transparent) from the asset table in the Korean section above.
 
@@ -365,7 +405,7 @@ Download the file that matches your background (dark, light, or transparent) fro
 > **AI and SVG master files are editable sources.** Distribution outside the approved handler is prohibited.
 > If a master file must be handed to an outsourced creator, obtain the Lead Director's approval in advance.
 
-### 📌 5. Credit Example
+### 📌 6. Credit Example
 
 When placing an approved asset, the following credit must appear **where viewers can see it** — the VRChat world description, event poster, Discord announcement, and so on.
 
@@ -390,13 +430,13 @@ Logo © VRChat 한국수어교실 (github.com/LeeSimYul/Kidentity) / CC BY-NC-ND
 | Original ratio and colors preserved | Logo cropped or recolored |
 | Deployed after the Lead Director's approval | Deployed unilaterally because "it's a public repo" |
 
-### 🛠️ 6. VRChat / Unity Placement Guide
+### 🛠️ 7. VRChat / Unity Placement Guide
 
 A separate document covers the Unlit/Translucent shader setup and texture import settings that prevent the logo from **darkening, stretching, or aliasing** inside VRChat worlds.
 
 > 📖 **[Read the VRChat / Unity Guide ➔ `docs/VRCHAT_UNITY_GUIDE.md`](./docs/VRCHAT_UNITY_GUIDE.md)**
 
-### 💬 7. Contact
+### 💬 8. Contact
 
 | Purpose | Route |
 | :--- | :--- |
