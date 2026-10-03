@@ -11,11 +11,11 @@
 2. **공식 커뮤니티 한정 사용**
    - 본 자산은 승인된 공식 수업, 공식 이벤트, 공식 운영 월드에 한하여 승인된 범위 내에서만 사용 가능합니다.
 3. **제3자 대리 발급 무효 (No Proxy Authorization — Null and Void)**
-   - 본 브랜드 자산의 사용 권한은 **오직 총괄 대표(Lead Director: Lee SimYul)의 직접적이고 명시적인 사전 서면 승인**에 의해서만 부여됩니다.
+   - 본 브랜드 자산의 사용 권한은 **오직 총괄 대표(Lead Director: LeeSimYul)의 직접적이고 명시적인 사전 서면 승인**에 의해서만 부여됩니다.
    - 커뮤니티 운영진, 교사진, 제3자를 통한 **구두 승인, 묵인, 임의 대리 발급은 일절 인정되지 않으며 법적으로 무효(Null and Void)** 입니다.
    - 이러한 무효한 승인을 근거로 한 모든 사용은 무단 사용으로 간주되며, [5. 규정 위반 시 조치](#5-규정-위반-시-조치-enforcement)가 동일하게 적용됩니다.
 
-> **[English]** The right to use these brand assets is granted **solely by the direct, explicit, prior written approval of the Lead Director, Lee SimYul.**
+> **[English]** The right to use these brand assets is granted **solely by the direct, explicit, prior written approval of the Lead Director, LeeSimYul.**
 > Any **verbal approval, tacit acquiescence, or arbitrary proxy authorization** through community staff, teachers, or any third party is not recognized under any circumstances and is **legally null and void.**
 > Any use based on such void authorization is deemed unauthorized and subject to the enforcement measures in Section 5.
 
