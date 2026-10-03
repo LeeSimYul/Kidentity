@@ -21,7 +21,7 @@
 > **🌐 English Disclaimer**
 >
 > This repository houses the official brand identity assets of the VRChat Korean Sign Language Class.\
-> Any external projects, VRChat worlds, teams, or individuals referencing or linking to this repository without explicit, written authorization from Lead Director Lee SimYul (이심율) are **strictly unaffiliated and unendorsed.**\
+> Any external projects, VRChat worlds, teams, or individuals referencing or linking to this repository without explicit, written authorization from Lead Director LeeSimYul (이심율) are **strictly unaffiliated and unendorsed.**\
 > The official administrators **disclaim all liability, responsibility, and warranty** for any disputes, damages, or misrepresentations arising from unauthorized third-party usages or links.
 >
 > ---
@@ -271,7 +271,7 @@ Unlit / Translucent 셰이더 설정 및 텍스처 임포트 가이드를 별도
 | **공식 사용 승인 신청** | [Issues ➔ 브랜드 사용 승인 신청 템플릿](https://github.com/LeeSimYul/Kidentity/issues/new?template=brand_authorization_request.md) |
 | **가이드라인 문의** | [Issues](https://github.com/LeeSimYul/Kidentity/issues) 탭 |
 | **저작권 침해 신고** | 총괄 대표(이심율)에게 디스코드 DM |
-| **총괄 대표** | VRChat 한국수어교실 총괄 대표 겸 담임선생님 — **이심율 (Lead Director: Lee SimYul)** |
+| **총괄 대표** | VRChat 한국수어교실 총괄 대표 겸 담임선생님 — **이심율 (Lead Director: LeeSimYul)** |
 
 ---
 ---
@@ -296,7 +296,7 @@ All assets in this repository are governed by a **dual condition**: the **Creati
 > [!IMPORTANT]
 > ### 🔐 Prior Written Approval Required
 >
-> Every brand asset in this repository may be used **only within an approved scope**, and **only after obtaining prior written approval** from the **Lead Director of VRChat Korean Sign Language Class, Lee SimYul (이심율)** — either an official Discord record or a written document.
+> Every brand asset in this repository may be used **only within an approved scope**, and **only after obtaining prior written approval** from the **Lead Director of VRChat Korean Sign Language Class, LeeSimYul (이심율)** — either an official Discord record or a written document.
 >
 > **This applies to class staff as well.** Independent use or abuse of privileges without the Lead Director's prior approval is not permitted.
 > The fact that this repository is **public does not imply a grant of free use.**
@@ -323,7 +323,7 @@ All assets in this repository are governed by a **dual condition**: the **Creati
 > Using the assets for paid content, merchandise, or commercial promotion without approval — or **uploading a derivative world (including copies, remakes, or look-alike worlds) that carries or alters the assets to VRChat or any other platform** — is prohibited.
 >
 > **Article 3 — No Proxy Authorization by Unauthorized Third Parties**\
-> Permission to use may be issued **only by the Lead Director, Lee SimYul (이심율).**
+> Permission to use may be issued **only by the Lead Director, LeeSimYul (이심율).**
 > Any "permission" issued or relayed by staff, partner organizations, world owners, commission artists, or any other unauthorized third party is **void**, and all use based on it is **deemed unauthorized.** (See [LICENSE Clause 2](./LICENSE) · [Authorized Usages](#authorized-usages-en))
 
 📌 See [`LICENSE`](./LICENSE) for the full legal terms and [`BRANDING.md`](./BRANDING.md) for detailed brand guidelines.
@@ -384,7 +384,7 @@ All assets in this repository are governed by a **dual condition**: the **Creati
 
 ### ✅ 4. Authorized Usages
 
-The official registry of worlds and projects that have received **formal prior written approval** from the Lead Director, Lee SimYul (이심율).
+The official registry of worlds and projects that have received **formal prior written approval** from the Lead Director, LeeSimYul (이심율).
 In accordance with the [Official Disclaimer](#disclaimer) at the top, **any world, project, team, or individual not listed here is unaffiliated with VRChat 한국수어교실.**
 
 | No. | Project / World | Creator / Uploader | Approved Scope | Status |
@@ -412,7 +412,7 @@ When placing an approved asset, the following credit must appear **where viewers
 **Standard:**
 
 ```text
-Logo & Brand Identity by VRChat 한국수어교실 (Lead Director: Lee SimYul)
+Logo & Brand Identity by VRChat 한국수어교실 (Lead Director: LeeSimYul)
 Official Repository: https://github.com/LeeSimYul/Kidentity
 Licensed under CC BY-NC-ND 4.0 / Used with prior written approval.
 ```
@@ -443,7 +443,7 @@ A separate document covers the Unlit/Translucent shader setup and texture import
 | **Official authorization request** | [Issues ➔ Brand Authorization Request template](https://github.com/LeeSimYul/Kidentity/issues/new?template=brand_authorization_request.md) |
 | **Guideline inquiries** | [Issues](https://github.com/LeeSimYul/Kidentity/issues) tab |
 | **Report infringement** | Discord DM to the Lead Director (이심율) |
-| **Lead Director** | VRChat Korean Sign Language Class — **Lee SimYul (이심율)** |
+| **Lead Director** | VRChat Korean Sign Language Class — **LeeSimYul (이심율)** |
 
 ---
 
