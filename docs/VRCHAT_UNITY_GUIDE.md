@@ -291,7 +291,7 @@ Licensed under CC BY-NC-ND 4.0 / Used with prior written approval.
 
 > [!IMPORTANT]
 > This is a technical document for handlers who have **already obtained authorization**.
-> **No asset may be placed in any world without the prior written approval of the Lead Director (Lee Sim-yul).**
+> **No asset may be placed in any world without the prior written approval of the Lead Director (Lee SimYul).**
 > 👉 [Submit an authorization request](https://github.com/LeeSimYul/Kidentity/issues/new?template=brand_authorization_request.md)
 
 ## 1. Choosing the Right Asset
